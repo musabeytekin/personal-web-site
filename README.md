@@ -2,6 +2,7 @@
 
 ## Scss kullanılarak Freelancer bir web sitesi tasarlanmıştır. 
 
-## Projemi aşağıdaki linkten inceleyebilirsiniz.
+Projemi aşağıdaki linkten inceleyebilirsiniz.
 
-[ İncele ](https://musabeytekin.netlify.app/)
+
+[ İncele ](https://musabeytekin.netlify.app/){:target="_blank"}
