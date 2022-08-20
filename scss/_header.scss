@@ -1,0 +1,66 @@
+// main-nav
+
+.main-nav {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 1rem;
+
+    &__logo {
+        width: 5rem;
+        height: 5rem;
+    }
+
+    &__items {
+        display: flex;
+
+        li {
+            padding: 1rem 1.5rem;
+
+            a {
+                text-decoration: none;
+                color: #fff;
+                text-transform: uppercase;
+                border-bottom: 3px transparent solid;
+                padding-bottom: .5rem;
+                transition: border-color .5s;
+
+                &:hover {
+                    border-color: $medium-color;
+
+                }
+
+                &.active {
+                    border-color: $primary-color;
+                }
+            }
+        }
+    }
+}
+
+#header {
+    &__home {
+        background: $bg-image center right/cover;
+        height: 100vh;
+        color: #fff;
+
+        .header-content {
+            text-align: center;
+            padding-top: 30%;
+        }
+
+        h1 {
+            font-size: 4rem;
+        }
+
+        .typewrite {
+            display: block;
+        }
+    }
+
+    &__inner {
+        background: $dark-color;
+        height: 6rem;
+        border-bottom: 3px solid $primary-color;
+
+    }
+}
