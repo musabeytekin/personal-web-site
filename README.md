@@ -4,5 +4,4 @@
 
 Projemi aşağıdaki linkten inceleyebilirsiniz.
 
-
-[ İncele ](https://musabeytekin.netlify.app/){:target="_blank"}
+<a href="https://musabeytekin.netlify.app/" target="_blank" style="text-decoration:none;">İncele</a>
