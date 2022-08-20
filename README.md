@@ -5,3 +5,5 @@
 Projemi aşağıdaki linkten inceleyebilirsiniz.
 
 <a href="https://musabeytekin.netlify.app/" target="_blank" style="text-decoration:none;">İncele</a>
+
+Projem bir taslak olarak hazırlanmış olup gerçeği yansıtmamaktadır...
